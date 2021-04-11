@@ -33,4 +33,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için; lütfen önce neyi 
 
 [MIT](https://opensource.org/licenses/MIT)
 
-<img src="repo.png" >
+<img src="repo.png">
